@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1631362178 source:c:\users\ogechi\desktop\c++\schoolfee\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<cctype>
+	<conio.h>
+	<ctime>
+	<dos.h>
+	<iomanip>
+
